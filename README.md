@@ -1,17 +1,14 @@
-You may store all the required information in the README.md itself EXCEPT for SSH keys.
-These should be stored as files inside the credentials folder in your team’s repository.
+# From Here to There - Campus Marketplace
 
-2. Add ALL members of your team to this repository. For it to count, they must ACCEPT the invite.
+From Here To There is a specialized marketplace designed for the San Francisco State University (SFSU) community. It helps students, faculty, and staff easily buy, sell, or exchange essential items, including textbooks and office supplies, fostering sustainability and reuse within the SFSU environment.
 
-3. Fill out the table below
+## Features
+- **Robust Search**: Quickly find needed items, like textbooks and supplies.
+- **SFSU Exclusive**: Only for students, faculty, and staff.
+- **Sustainability**: Encourages the reuse of materials within the community.
+- **User-Friendly Design**: Tailored for simplicity and ease of use.
 
-| Student Name | Student Email | GitHub Username |
-|    :---:     |     :---:     |     :---:       |
-| Omar Dajani   |          odajani@sfsu.edu     |           OmarDajani75      |
-| Gurpreet Natt    |         gnatt@sfsu.edu      |       gpreet2          |
-| Gio Jung      |      gjung1@sfsu.edu         |          GioJung97       |
-| Justin Isidro      |       jisidro@sfsu.edu        |        Crific         |
-| Douglas Cheung   |       dcheung5@sfsu.edu        |       NicholasRFrintz          |
-| Gursimran Singh     |        gsingh8@sfsu.edu       |         guri408        |
-
-## NO code needs to be stored in the root of your repository. You may rename the application folder if you like to your team's application name. But all source code related to your team's application should be stored inside the application folder.
+## How to Use
+1. **Sign Up**: Use your SFSU credentials to create an account.
+2. **Search & Browse**: Look for or list items.
+3. **Contact Sellers**: Connect with sellers through the platform.
